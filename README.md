@@ -1,6 +1,6 @@
 # 🐾 FurEver Home — Server
 
-The Express.js + MongoDB backend for the FurEver Home pet adoption platform. Handles authentication, pet listings, and adoption request management via a RESTful API.
+The Express.js + MongoDB backend for the FurEver Home pet adoption platform. Handles authentication, pet listings, and adoption request management.
 
 ## 🌐 Live URL
 
